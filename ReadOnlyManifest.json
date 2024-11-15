@@ -1,5 +1,5 @@
 {
-	"name": "Data Read App",
+	"name": "Ronan Data Read App",
 	"description": {
 	  "short": "App for data io",
 	  "long": "This app is designed to allow users to use data io extensions"
@@ -10,14 +10,14 @@
 	},
 	"screenshots": [],
 	"publisher": {
-	  "name": "John Doe",
-	  "email": "john.doe@gmail.com",
+	  "name": "Ronan Feely",
+	  "email": "ronan@ronanfeely.com",
 	  "phone": "800-867-5309",
-	  "website": "www.johndoe.com"
+	  "website": "www.ronanfeely.com"
 	},
-	"termsOfServiceUrl": "www.johndoe.com/tos",
-	"privacyUrl": "www.johndoe.com/privacy",
-	"supportUrl": "www.johndoe.com/support",
+	"termsOfServiceUrl": "www.ronanfeely.com/tos",
+	"privacyUrl": "www.ronanfeely.com/privacy",
+	"supportUrl": "www.ronanfeely.com/support",
 	"connections": [
 	  {
 		"name": "authentication",
